@@ -1,2 +1,2 @@
-# Hometending
-Home tending Manager (Recipe, Management, Recommand)
+# DrunkRecipe
+Alcohol Manager (Recipe, Recommand, Review, Home tending management)
